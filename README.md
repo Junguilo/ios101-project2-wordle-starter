@@ -4,7 +4,7 @@ Submitted by: **June Eguilos**
 
 **Functional Wordle** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
